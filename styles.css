@@ -13,11 +13,4 @@ body {
     color: white;
   }
 
-  .hero-background-img {
-    background-image: url("/Users/xin/makeSchool/spd 1.2/capstone/images.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    padding-top:200px;
-    padding-bottom:200px;
-  }
+
